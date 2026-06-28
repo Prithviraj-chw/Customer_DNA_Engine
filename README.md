@@ -2,6 +2,10 @@
 
 > Unsupervised ML pipeline that discovers hidden behavioral personas inside e-commerce transaction data — and recommends targeted promotions for each segment.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://customerdnaengine-qjrhmyrpwbkqxeo9kpprxh.streamlit.app/)
+
+🔗 **Live App:** https://customerdnaengine-qjrhmyrpwbkqxeo9kpprxh.streamlit.app/
+
 ---
 
 ## What it does
@@ -110,4 +114,6 @@ Source: [Kaggle — Miyabon](https://www.kaggle.com/datasets/mashlyn/online-reta
 
 ---
 
+## License
 
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
